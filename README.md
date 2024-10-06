@@ -1,0 +1,2 @@
+By Defult , imputation is perofrmed in ascending oredr from the feature with the least missing  values to the feature with the most, This makes as we want to have more complete data when it comes time to estimate missing
+values for columns where the majority of values are missing, but we can experimnat with diffrent impuatation oredr strategies such as descending, right to leaft(Aracic), left to right(Roman) and random.
